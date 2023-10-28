@@ -1,5 +1,6 @@
 **Data Analysis : 120 Years Of Olympis History -Python
-**
+
+
 **Intoduction**
 
 This is an Exploratory Data Analysis project to analyze the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
@@ -30,12 +31,16 @@ The file noc_regions.csv contains 230 rows and 3 columns. Each row corresponds t
 NOC (National Olympic Committee 3 letter code)
 region
 notes
+
+
 **Python Web App**
 
 This project is deployed on Streamlit Community Cloud. You can access the web app here.
 Note: All the graphs and charts are interactive. You can hover over the graphs and charts to get more information. You can also download the graphs and charts in png format.
 
 **Features of the Web App**
+
+
 The web app provides a brief overview of the dataset. It provides users to choose between 4 options to explore the dataset. The options are:
 
 1.Medal Tally
@@ -62,6 +67,8 @@ This section provides a country-wise analysis of the Olympics. It contains a dro
 1.Medal Tally over the years for that country (Line Graph)
 2.In which sport does the country excel the most (Heatmap)
 3.Top 10 athletes of that country (Table)
+
+
 4. **Athlete-wise Analysis**
 
   This section provides an athlete-wise analysis of the Olympics.
